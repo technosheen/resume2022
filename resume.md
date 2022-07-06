@@ -3,24 +3,23 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Jimmy Hendricks
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Sean Mahoney
+description-meta: 'Sean Mahoney | Software Developer - Adobe Experience Manager'
 keywords: 
-  - 'php' 
-  - 'mysql' 
-  - 'linux'
-author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
+  - 'aem' 
+  - 'software engineer' 
+  - 'javascript' 
+  - 'react'
+  - 'front-end' 
+author-meta: 'Sean Mahoney'
 ---
-# **Sean Mahoney**
 Experienced Web Developer adept in all stages of advanced web development. Knowledgeable in user interface, testing, and debugging processes. Bringing forth expertise in design, installation, testing and maintenance of web systems.
 
 ## Work Experience
 
-### Software Developer (Contract
-->_November 2021 to Present_
-
+### Software Developer (Contract)
 **Greenseed Group | Hypha**
-->_New York, NY_
+<div>_November 2021 to Present_</div>
 
 - Leading development of an eCommerce platform and integrated growth stack including a frontend built with Vuestorefront, Postgres, Segment, customer.io, and Commercetools.
 - Managing and collaborating with developers from vendor teams and agency partners.
@@ -29,10 +28,8 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 - Partner with teams across Marketing, IT, Product Areas, Service Operations and Distribution.
 
 ### Software Developer, Adobe Experience Manager
-->_September 2020 to November 2021_
-
 **DT Professional Services LLC**
-->_New York, NY_
+<div>_September 2020 to November 2021_</div>
 
 - Partner with teams across Marketing, IT, Product Areas, Service Operations and Distribution.
 - Develop compelling, creative, and easy-to-use Content Management capabilities that support cross-device access and interaction with our content experiences to deliver world class customer experiences.
@@ -43,10 +40,8 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 - Refactoring current code for use with adobe's headless single page React application (SPA) editor.
 
 ### Web Developer, Contract
-->_February 2020 to August 2020_
-
 **Reed Exhibitions**
-->_New York, NY_
+<div>_February 2020 to August 2020_</div>
 
 - Worked within Adobe Experience Manager handling the day-to-day maintenance for 5 internal client teams.
 - Tweaked CMS to optimize content.
@@ -55,10 +50,8 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 - Bar Convent Brooklyn, JIS Show, ITS America Events, Fastener Fair USA, Aluminum USA.
 
 ### Web Developer, Contract
-->_November 2019 to July 2020_
-
 **dr LASER**
--> _New York, NY_
+<div>_November 2019 to July 2020_</div>
 
 - Designed and developed a new website for the company, which has increased total web traffic by 36% since its launch. 
 - Responsible for full stack web development for all client projects.
@@ -66,10 +59,8 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 - Collaborated and implemented SEO strategy alongside client's Marketing agency.
 
 ### Senior Analyst - Workday Integrations
-->_May 2019 to August 2019_
-
 **Accenture**
-->_New York, NY_
+<div>_May 2019 to August 2019_</div>
 
 - Designed, prototyped, and built Workday systems.
 - Top-to-bottom knowledge of Workday ensuring clients worked smarter.
@@ -87,8 +78,8 @@ Experienced Web Developer adept in all stages of advanced web development. Knowl
 ## Education
 
 ### Pace University
-->_New York, NY_
-**Accounting & Internal Auditing**, 
-->_2016_
+**Accounting & Internal Auditing**
+<div>_New York, NY_</div>
+
 ###
  
