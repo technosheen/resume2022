@@ -1,4 +1,4 @@
-# Markdown Resume 
+# Markdown Resume
 
 This repo allows you to build/maintain your resume in a Markdown file, and then publish it into an HTML or PDF file. 
 Technically, you could output it into any file you wanted with pandoc, or wkhtmltopdf, but I wasn't interested in those scenarios so I explore those avenues. 
